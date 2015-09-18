@@ -412,6 +412,10 @@ h1 {
     -webkit-align-items: center;
             align-items: center;
     text-align: center;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    border: 80px solid #fff;
 }
 
 .splash a {
@@ -431,6 +435,7 @@ h1 {
 	width: 100%;
 	background-color: #fff;
 	text-align: center;
+	height: 160px;
 }
 
 .splash-nav ul {
