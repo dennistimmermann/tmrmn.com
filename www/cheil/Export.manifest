@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2545034535
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: yourscene
+      Dependencies: {}
+    Info_1:
+      Name: pichiavo
+      Dependencies: {}
+    Info_2:
+      Name: elle
+      Dependencies: {}
