@@ -24,7 +24,8 @@ jobs:
         # npm run build
         mkdir ./public
         mv index.html ./public
-        mv 404.html ./public        
+        mv 404.html ./public
+        mv src ./public/src    
 
     - name: Rsync
       uses: burnett01/rsync-deployments@7.0.1
